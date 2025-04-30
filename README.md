@@ -1,3 +1,6 @@
+### name : chandru v
+### reg no : 212224230043
+### Ex no : 06
 # SR-FLIPFLOP-USING-CASE
 
 **AIM:**
@@ -38,11 +41,23 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+![image](https://github.com/user-attachments/assets/bcd4cb80-e52e-4849-b1ca-7fe99af53e6b)
+
+![image](https://github.com/user-attachments/assets/10d72e10-2ea3-45da-afea-349166b974c4)
+
+
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by:chandru v RegisterNumber:212224230043
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+![391840737-e057c28a-bdb2-4b87-aa73-041198aa45ea](https://github.com/user-attachments/assets/a81b18ca-7254-4426-b755-b9e363c8ac28)
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+![391840647-057b2d99-5dda-4a94-b479-d9d856dc24dc](https://github.com/user-attachments/assets/2de88158-1f18-4817-be5b-5c2ea28b3aaa)
+
 **RESULTS**
+
+Encoder implemented successfully SR-FLIPFLOP-USING-CASE verified.
